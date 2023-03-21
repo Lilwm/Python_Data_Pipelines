@@ -1,0 +1,4 @@
+ID,date,time,equipment_ID,maintenance_type
+1,2022-03-01,10:00:00,1,Preventive Maintenance
+2,2022-03-02,14:30:00,2,Corrective Maintenance
+3,2022-03-03,08:00:00,1,Corrective Maintenance
